@@ -1,4 +1,30 @@
-### Hi there 👋
+# 🐯 손채영
+#### Backend Engineer
+사용자 경험을 중시하여, 서비스를 기술이 아닌 해결책으로 바라봅니다. <br>
+사용자의 불편함 해결을 위해 필요성이 높은 기능은 어떻게든 책임지고 추진해 구현해냅니다.
+
+- 블로그 : [휘발을 막기 위한 기록](https://helenason.tistory.com/)
+- 이메일 : cyhelenason@gmail.com
+
+## 👩‍🏫 Education
+### [우아한테크코스](https://github.com/helenason/woowa-archive)
+#### 2024.02. ~ 2024.11.
+- 페어 프로그래밍 및 코드 리뷰 등 협업 문화 경험
+- GIT 기반 학습 내역 관리
+- 미션 기반 Java, Spring, TDD 등 교육
+
+### 홍익대학교
+#### 2019.03. ~ 2024.02.
+- 컴퓨터공학전공 졸업
+- 졸업전시프로젝트 우수상 수상
+
+## 👩‍💻 Skills
+### Backend
+`Java` `Spring Boot` `Python` `Flask`
+### Database
+`MySQL` `MongoDB`
+### DevOps
+`Github Actions` `Docker` `AWS EC2` `AWS S3` `AWS CloudWatch`
 
 <!--
 
