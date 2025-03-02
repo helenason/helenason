@@ -1,6 +1,5 @@
 # 🐯 손채영
 #### Backend Engineer
-사용자 경험을 중시하여, 서비스를 기술이 아닌 해결책으로 바라봅니다.
 
 - 블로그 : [휘발을 막기 위한 기록](https://helenason.tistory.com/)
 - 이메일 : cyhelenason@gmail.com
