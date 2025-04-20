@@ -1,16 +1,25 @@
+<!--
 # 🐯 손채영
 #### Backend Engineer
+-->
 
 - 블로그 : [휘발을 막기 위한 기록](https://helenason.tistory.com/)
 - 이메일 : cyhelenason@gmail.com
 
-## 👩‍🏫 Education
+## 👩‍🏫 Activity
 ### [우아한테크코스](https://github.com/helenason/woowa-archive)
 #### 2024.02. ~ 2024.11.
 - 페어 프로그래밍 및 코드 리뷰 등 협업 문화 경험
 - GIT 기반 학습 내역 관리
 - 미션 기반 TDD, OOP, 클린코드 등 교육
+- 공동구매 매칭 서비스 [총대마켓](https://play.google.com/store/apps/details?id=com.zzang.chongdae) 개발
 
+### 디프만
+#### 2025.01. ~ 2025.04.
+- 디자이너와 개발자가 하나의 프로덕트를 만들어내는 연합 동아리
+- 디지털 명함 서비스 [TOOK](https://www.even-took.com) 개발
+
+<!--
 ### 홍익대학교
 #### 2019.03. ~ 2024.02.
 - 컴퓨터공학전공 졸업
@@ -23,6 +32,7 @@
 `MySQL` `MongoDB`
 ### DevOps
 `Github Actions` `Docker` `AWS EC2` `AWS S3` `AWS CloudWatch`
+-->
 
 <!--
 
